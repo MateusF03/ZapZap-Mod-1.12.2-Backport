@@ -1,0 +1,7 @@
+{
+  "zap_whistle": {
+    "category": "player",
+    "subtitle": "zapzapmod.subtitle.zapWhistle",
+    "sounds": [ "zapzapmod:zap_whistle" ]
+  }
+}

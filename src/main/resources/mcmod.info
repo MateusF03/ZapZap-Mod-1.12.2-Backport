@@ -1,0 +1,12 @@
+[{
+  "modid": "zapzapmod",
+  "name": "ZapZap Mod",
+  "description": "ZapZap é o viciiio",
+  "version": "1.0.0.0",
+  "mcversion": "1.12.2",
+  "logoFile": "assets/zapzapmod/textures/logo.png",
+  "url": "",
+  "updateJSON": "",
+  "authorList": ["Mateusaum"],
+  "credits": "Salve ao Cantina."
+}]
